@@ -1,3 +1,7 @@
+print("Name: Siddharth A Gurav")
+print("USN: 1AY24AI107")
+print("Section: O")
+
 import random
 
 def play():
